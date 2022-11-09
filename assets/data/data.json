@@ -1,0 +1,75 @@
+{
+    "film": [
+        {
+            "id": 1,
+            "titolo": "Invito a cena con delitto",
+            "regista": "Robert Moore",
+            "anno": 1976,
+            "attori": [
+                "Peter Falk",
+                "Peter Sellers",
+                "David Niven",
+                "Maggie Smith",
+                "Alec Guinness"
+            ]
+
+        },
+        {
+            "id": 2,
+            "titolo": "Il posto delle fragole",
+            "regista": "Ingmar Bergman",
+            "anno": 1957,
+            "attori": [
+                "Victor Sjöström",
+                "Bibi Andersson",
+                "Ingrid Thulin",
+                "Gunnar Björnstrand",
+                "Max von Sydow"
+            ]
+
+        },
+        {
+            "id": 3,
+            "titolo": "Barry Lyndon",
+            "regista": "Stanley Kubrick",
+            "anno": 1975,
+            "attori": [
+                "Ryan O'Neal",
+                "Leon Vitali",
+                "Marisa Berenson",
+                "Patrick Magee",
+                "Murray Melvin"
+            ]
+
+        },
+        {
+            "id": 4,
+            "titolo": "Star Wars: Episodio IV - Una nuova speranza",
+            "regista": "George Lucas",
+            "anno": 1977,
+            "attori": [
+                "Mark Hamill",
+                "Harrison Ford",
+                "Carrie Fisher",
+                "Alec Guinness",
+                "Peter Mayhew"
+            ]
+
+        },
+        {
+            "id": 5,
+            "titolo": "Frankenstein Junior",
+            "regista": "Mel Brooks",
+            "anno": 1974,
+            "attori": [
+                "Gene Wilder",
+                "Marty Feldman",
+                "Peter Boyle",
+                "Teri Garr",
+                "Madeline Kahn"
+            ]
+
+        }
+       
+    ]
+}
